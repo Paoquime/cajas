@@ -1,0 +1,15 @@
+
+div {
+	background-color: #F9CB9C;
+	width: 900px;
+	padding: 20px 10px 50px 80px;
+	margin:  120px;
+	border:solid 15px #A42A94;
+}
+
+p {
+	text-align: center;
+	padding: 10px;
+	border:dashed 2px;
+	background-color: white;
+}
