@@ -1,6 +1,6 @@
 # Cajas
 
-* En este ejercicio aplicamos lo aprendido en clase acerca de padding, margin, border y display.
+* En este ejercicio aplicamos lo aprendido en clase acerca de modelo de caja y sus propiedades.
 
 
 * Link gh-pages: <http://paoquime.github.io/cajas/>
